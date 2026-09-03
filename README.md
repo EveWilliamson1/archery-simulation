@@ -22,4 +22,4 @@ The repository contains the final report and the Python code I retained from the
 
 ## Group Project
 
-Completed collaboratively with Anthony Kupshik, Clara Thompson and Megan Sanderson as part of **Mathematical Investigations with Python** at Cardiff University.
+Completed collaboratively.
